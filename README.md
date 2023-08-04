@@ -1,5 +1,14 @@
 # DEVTOOLS for Technical Solution Deployment
 
+| Referentiel | Stars |
+| --- | --- |
+| [InstitutNationalduCancer/OSIRIS_FHIR_IMPLEMENTATIONGUIDE](https://github.com/InstitutNationalduCancer/OSIRIS_FHIR_ImplementationGuide) | ![InstitutNationalduCancer/OSIRIS_FHIR_IMPLEMENTATIONGUIDE](https://img.shields.io/github/stars/InstitutNationalduCancer/OSIRIS_FHIR_ImplementationGuide) |
+| [InstitutNationalduCancer/FRICTIONLESS](https://github.com/InstitutNationalduCancer/frictionless-ci) | ![](https://img.shields.io/github/stars/InstitutNationalduCancer/frictionless-ci) |
+| [InstitutNationalduCancer/USAGI_FOR_OSIRIS](https://github.com/InstitutNationalduCancer/Usagi_for_OSIRIS) | ![](https://img.shields.io/github/stars/InstitutNationalduCancer/Usagi_for_OSIRIS) |
+
+------------
+
+
 1) Official DevTools for Technical OSIRIS Deployment into your database management system :
 - Transform OSIRIS CDM into the FHIR interoperability format : https://github.com/InstitutNationalduCancer/OSIRIS_FHIR_ImplementationGuide
 
