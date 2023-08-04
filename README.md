@@ -5,7 +5,7 @@
 | [InstitutNationalduCancer/OSIRIS_FHIR_IMPLEMENTATIONGUIDE](https://github.com/InstitutNationalduCancer/OSIRIS_FHIR_ImplementationGuide) | ![InstitutNationalduCancer/OSIRIS_FHIR_IMPLEMENTATIONGUIDE](https://img.shields.io/github/stars/InstitutNationalduCancer/OSIRIS_FHIR_ImplementationGuide) |
 | [InstitutNationalduCancer/FRICTIONLESS](https://github.com/InstitutNationalduCancer/frictionless-ci) | ![](https://img.shields.io/github/stars/InstitutNationalduCancer/frictionless-ci) |
 | [InstitutNationalduCancer/USAGI_FOR_OSIRIS](https://github.com/InstitutNationalduCancer/Usagi_for_OSIRIS) | ![](https://img.shields.io/github/stars/InstitutNationalduCancer/Usagi_for_OSIRIS) |
-| [InstitutNationalduCancer/JupyterNotebook_for_OSIRIS](https://github.com/InstitutNationalduCancer/JupyterNotebook_for_OSIRIS)  | ![]([https://img.shields.io/github/stars/InstitutNationalduCancer/JupyterNotebook_for_OSIRIS) |
+| [InstitutNationalduCancer/JupyterNotebook_for_OSIRIS](https://github.com/InstitutNationalduCancer/JupyterNotebook_for_OSIRIS)  | ![](https://img.shields.io/github/stars/InstitutNationalduCancer/JupyterNotebook_for_OSIRIS) |
 
 ------------
 
