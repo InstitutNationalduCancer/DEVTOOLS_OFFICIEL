@@ -1,0 +1,3 @@
+Patient_Id,Instance_Id,TumorPathologyEvent_ParentRef,TumorPathologyEvent_Type,TumorPathologyEvent_StartDate,TumorPathologyEvent_PerformanceStatus,TumorPathologyEvent_G8,TumorPathologyEvent_T,TumorPathologyEvent_N,TumorPathologyEvent_M,TumorPathologyEvent_TNMVersion,TumorPathologyEvent_TNMType,TumorPathologyEvent_HistologicalGradeType,TumorPathologyEvent_HistologicalGradeValue,TumorPathologyEvent_StadeType,TumorPathologyEvent_StadeValue,TumorPathologyEvent_DiagnosisDate,TumorPathologyEvent_TopographyCode,TumorPathologyEvent_MorphologyCode,TumorPathologyEvent_Laterality
+L304,1,,UMLS:C0677930,2005-11-17,1,6,T0,N1mi,M1,,c,,,,,2005-11-17,C00.8,8002/3,UMLS:C0238767
+L304,2,1,UMLS:C0521158,2010-11-18,6,6,T1,N2,M1,,p,,,,,2010-11-18,C11.1,8000-1,UMLS:C0439673

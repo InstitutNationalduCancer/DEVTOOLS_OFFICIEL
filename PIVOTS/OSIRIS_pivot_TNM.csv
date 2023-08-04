@@ -1,0 +1,3 @@
+Patient_Id,Instance_Id,TumorPathologyEvent_Ref,TNM_Version,TNM_Type,TNM_T,TNM_N,TNM_M
+L304,1,1,,,,,
+L304,2,2,,,,,

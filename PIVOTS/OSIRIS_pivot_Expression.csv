@@ -1,0 +1,2 @@
+Patient_Id,Instance_Id,Analysis_Ref,AlterationOnSample_AlterationType,AlterationOnSample_Pathogenicity,AlterationOnSample_Actionability,AlterationOnSample_ProposedForOrientation,GeneExpression_DataType,GeneExpression_Value,Validation_Type,Validation_Method,Validation_Status
+L304,,,,,,,,,,,

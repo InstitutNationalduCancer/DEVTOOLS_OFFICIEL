@@ -1,0 +1,4 @@
+Patient_Id,Instance_Id,Treatment_Ref,TumorPathologyEvent_Ref,AdverseEvent_Code,AdverseEvent_Date,AdverseEvent_EndDate,AdverseEvent_Grade
+L304,1,2,1,Mal à la tete,2007-06-13,2007-07-10,
+,,,,,,,
+Vincent : Patient_Id est Patient_Ref en deuxième colonne,,,,,,,

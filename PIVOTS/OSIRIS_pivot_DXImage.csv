@@ -1,0 +1,3 @@
+Patient_Id,Instance_Id,CommonImage_Ref,DXImage_ImageLaterality,DXImage_PatientOrientation,DXImage_KVP,DXImage_Exposure,DXImage_ExposureTime
+LIDC-IDRI-0001,0,30183,UMLS:C0439673,"['P', 'F']",DX,13,32
+LIDC-IDRI-0001,1,30184,UMLS:C0439673,"['L', 'F']",DX,2,7

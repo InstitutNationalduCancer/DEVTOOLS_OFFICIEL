@@ -1,0 +1,14 @@
+Patient_Id,Instance_Id,PlanRT_Ref,VolumeRT_Ref,DoseToVolume_FractionDose,DoseToVolume_NumberOfFractions,DoseToVolume_TotalDose
+Patient-XRTS-04-22A ,1,1,1,266,16,4256
+Patient-XRTS-04-22A ,2,1,2,266,16,4256
+Patient-XRTS-04-22A ,3,1,3,266,16,4256
+Patient-XRTS-04-22A ,4,2,2,250,4,1000
+Patient-XRTS-04-22A ,5,3,4,266,16,4256
+Patient-XRTS-04-22A ,6,4,1,266,3,798
+Patient-XRTS-04-22A ,7,4,2,266,3,798
+Patient-XRTS-04-22A ,8,4,3,266,3,798
+Patient-XRTS-04-22A ,6,5,1,266,13,3458
+Patient-XRTS-04-22A ,7,5,2,266,13,3458
+Patient-XRTS-04-22A ,8,5,3,266,13,3458
+Patient-XRTS-04-22A ,9,6,2,250,4,1000
+Patient-XRTS-04-22A ,10,7,4,266,16,4256

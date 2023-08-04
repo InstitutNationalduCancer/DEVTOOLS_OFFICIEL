@@ -1,0 +1,8 @@
+Patient_Id,Instance_Id,Alteration_Ref,AlterationOnSample_AlterationType,GenomeEntity_Type,GenomeEntity_Database,GenomeEntity_Id,GenomeEntity_Symbol,Annotation_ReferenceType,Annotation_ReferenceDatabase,Annotation_ReferenceValue,Annotation_MutationPredictionAlgorithm,Annotation_MutationPredictionValue,Annotation_MutationPredictionScore,Annotation_PfamDomain,Annotation_PfamId,Annotation_DNARegionName,Annotation_DNASequenceVariation,Annotation_AminoAcidChange,Annotation_GenomicSequenceVariation,Annotation_RNASequenceVariation,Annotation_AminoAcidChangeType,Annotation_FusionPrimeEnd,Annotation_Strand
+L304,1,1,OSIRIS:O15-4,,,,PI3K,OSIRIS:O90-1,COSMIC,COSM760,SIFT,Deleterious,0.35,"PI3K_rbd; PI3-kinase family, ras-binding domain",pfam00794,exon 2,c.1624G>A,p.E542K,,,LA6698-0,,
+L304,1,1,Genetic variant,,,,TP53,genome entity,Entrez,123365,,,,,,,,,,,,,
+L304,2,1,Genetic variant,,,,TP53,exonic variant transcript,Refseq,NM_001126115,,,,,,exon1,c.73G>T,p.V25F,,,,,
+L304,3,1,Genetic variant,,,,TP53,exonic variant transcript,Refseq,NM_001126116,,,,,,exon1,c.73G>T,p.V25F,,,,,
+L304,4,1,Genetic variant,,,,TP53,exonic variant transcript,Refseq,NM_001126112,,,,,,exon5,c.469G>T,p.V157F,,,,,
+L304,5,1,Genetic variant,,,,TP53,,,,SIFT,Deleterious,0.35,,,,,,,,,,
+L304,6,1,Genetic variant,,,,TP53,,,,Polyphen,Deleterious,0.7,,,,,,,,,,

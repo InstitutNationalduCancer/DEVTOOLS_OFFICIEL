@@ -1,0 +1,3 @@
+Patient_Id,Instance_Id,Treatment_Ref,Drug_Code,Drug_Name
+L304,1,2,c3564,cis-platine
+L304,2,2,f456,Imatinib

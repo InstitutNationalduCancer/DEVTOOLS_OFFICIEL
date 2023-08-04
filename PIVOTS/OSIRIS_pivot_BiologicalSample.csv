@@ -1,0 +1,3 @@
+Patient_Id,Instance_Id,TumorPathologyEvent_Ref,Consent_Ref,BiologicalSample_ExternalAccession,BiologicalSample_ParentExternalAccession,BiologicalSample_CollectDate,BiologicalSample_TopographyCode,BiologicalSample_Nature,BiologicalSample_Origin,BiologicalSample_StorageTemperature,BiologicalSample_TumorCellularity
+L304,1,1,1,ech primary,,2005-12-27,C34,C4039816,OSIRIS:O59-2,MIABIS:Tissue Frozen,30
+L304,2,2,1,ech 2,ech primary,2011-02-08,C30,C1519524,OSIRIS:O59-2,FFPE,60

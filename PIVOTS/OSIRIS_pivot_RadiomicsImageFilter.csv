@@ -1,0 +1,4 @@
+Patient_Id,Instance_Id,Series_Ref,RadiomicsImageFilter_SoftwareName,RadiomicsImageFilter_SoftwareVersion,RadiomicsImageFilter_FilterMethod,RadiomicsImageFilter_FilterType,RadiomicsImageFilter_FilterInterpolation,RadiomicsImageFilter_IntensityRounding,RadiomicsImageFilter_BoundaryCondition
+13,1,746,PyRadiomics,v3.0.1,mean,3D volume,None,linear,zero padding
+24,2,199,PyRadiomics,v3.0.1,mean,3D volume,None,linear,zero padding
+VIDA_PELV_GRASP_VIBE,0,217,PyRadiomics,v3.0.1,mean,3D volume,None,linear,zero padding

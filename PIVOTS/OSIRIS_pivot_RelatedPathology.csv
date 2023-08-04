@@ -1,0 +1,2 @@
+Patient_Id,Instance_Id,RelatedPathology_PathologyCode,RelatedPathology_DiagnosisDate,RelatedPathology_PathologyEndDate
+L304,1,R60.9,2002-11-14,2003-11-19
